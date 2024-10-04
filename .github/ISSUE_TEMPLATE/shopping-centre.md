@@ -19,6 +19,6 @@ Acceptance Criteria 3:<br>
 
 ## Tasks
 
-- [ ] 
-- [ ]
-- [ ]
+- [ ] Task One
+- [ ] Task Two
+- [ ] Task Three
