@@ -10,3 +10,7 @@ assignees: ''
 As a ROLE
 I can CAPABILITY
 So that RECEIVED BENEFIT
+
+Acceptance Criteria 1:
+Acceptance Criteria 2:
+Acceptance Criteria 3:
