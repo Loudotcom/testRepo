@@ -11,6 +11,14 @@ As a ROLE
 I can CAPABILITY
 So that RECEIVED BENEFIT
 
-Acceptance Criteria 1:
-Acceptance Criteria 2:
-Acceptance Criteria 3:
+
+## Acceptance Crtieria
+Acceptance Criteria 1:<br>
+Acceptance Criteria 2:<br>
+Acceptance Criteria 3:<br>
+
+## Tasks
+
+- [] 
+- []
+- []
